@@ -1,0 +1,14 @@
+# Ignore all JSON files
+*.json
+
+# Ignore all CSV files
+*.csv
+
+# Ignore all log files
+*.log
+
+# Other common ignores
+__pycache__/
+*.pyc
+.DS_Store
+.env
